@@ -1,0 +1,34 @@
+{
+  "name": "seeder",
+  "oSeed": {
+    "name": "oseed",
+    "version": "1.0.0",
+    "description": "this see project is not for use directly \r     just pick a brance you want then work on your own",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/insetavijit/oSeed.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/insetavijit/oSeed/issues"
+    },
+    "homepage": "https://github.com/insetavijit/oSeed#readme"
+  },
+  "description": "",
+  "version": "1.0.0",
+  "main": "vl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insetavijit/seeder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/insetavijit/seeder/issues"
+  },
+  "homepage": "https://github.com/insetavijit/seeder#readme"
+}
