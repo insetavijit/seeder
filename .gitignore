@@ -1,3 +1,65 @@
+
+
+
+/DOCUMENTRATION/*
+
+# node modules are already out of our project
+
+# .vscode
+
+#### autoGens :
+
+dist
+.bin
+
+## include this docs please.
+!/DOCUMENTRATION/master.doc
+
+# LICENSE.oSeed
+# readme.oSeed.md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Logs
 logs
 *.log
